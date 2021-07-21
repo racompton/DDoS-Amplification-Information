@@ -12,7 +12,7 @@ packet size range for reply is XXX
 
 amplification factor is XXX
 
-popularity is 
+popularity is #18
 
 ## CharGen 
    https://www.shadowserver.org/what-we-do/network-reporting/open-chargen-report/
@@ -25,7 +25,7 @@ packet size range for reply is XXX
 
 amplification factor is XXX
 
-popularity is 
+popularity is #17
 
  ## DNS 
    https://www.shadowserver.org/what-we-do/network-reporting/dns-open-resolvers-report/
@@ -40,7 +40,7 @@ fragments are usually generated
 
 amplification factor is XXX
 
-popularity is 
+popularity is #1
 
 
    ## TFTP 
@@ -54,7 +54,7 @@ packet size range for reply is XXX
 
 amplification factor is XXX
 
-popularity is 
+popularity is #7
 
 
 
@@ -69,7 +69,7 @@ packet size range for reply is XXX
 
 amplification factor is XXX
 
-popularity is 
+popularity is #14
 
 
 
@@ -86,7 +86,7 @@ no fragments generated
 
 amplification factor is XXX
 
-popularity is 
+popularity is #3
 
 
    ## NTP monlist 
@@ -102,7 +102,7 @@ no fragments generated
 
 amplification factor is XXX
 
-popularity is 
+popularity is #3
 
 
   ## NetBIOS 
@@ -116,7 +116,7 @@ packet size range for reply is XXX bytes
 
 amplification factor is XXX
 
-popularity is 
+popularity is #9
 
 
    ## SNMP 
@@ -130,7 +130,7 @@ packet size range for reply is XXX bytes
 
 amplification factor is XXX
 
-popularity is 
+popularity is #6
 
 
    ## XDMCP 
@@ -144,7 +144,7 @@ packet size range for reply is XXX bytes
 
 amplification factor is XXX
 
-popularity is 
+popularity is #13
 
 
    ## LDAP 
@@ -158,7 +158,7 @@ packet size range for reply is XXX bytes
 
 amplification factor is XXX
 
-popularity is 
+popularity is #12
 
 
    ## RIP 
@@ -172,7 +172,7 @@ packet size range for reply is XXX bytes
 
 amplification factor is XXX
 
-popularity is 
+popularity is #19
 
 
    ## DB2 
@@ -186,7 +186,7 @@ packet size range for reply is XXX bytes
 
 amplification factor is XXX
 
-popularity is 
+popularity is #16
 
 
    ## MS-SQL 
@@ -200,7 +200,7 @@ packet size range for reply is XXX bytes
 
 amplification factor is XXX
 
-popularity is 
+popularity is #8
 
 
    ## SSDP 
@@ -228,7 +228,7 @@ packet size range for reply is XXX bytes
 
 amplification factor is XXX
 
-popularity is 
+popularity is #2
 
 
   ## RDP 
@@ -256,7 +256,7 @@ packet size range for reply is XXX bytes
 
 amplification factor is XXX
 
-popularity is 
+popularity is #4
 
 
    ## Sentinel 
@@ -270,7 +270,7 @@ packet size range for reply is XXX bytes
 
 amplification factor is XXX
 
-popularity is 
+popularity is #12
 
 
 
@@ -285,7 +285,7 @@ packet size range for reply is XXX bytes
 
 amplification factor is XXX
 
-popularity is 
+popularity is #5
 
 
 
@@ -314,7 +314,7 @@ packet size range for reply is XXX bytes
 
 amplification factor is XXX
 
-popularity is 
+popularity is #10
 
 
   ## Memcached 
@@ -328,7 +328,7 @@ packet size range for reply is XXX bytes
 
 amplification factor is XXX
 
-popularity is 
+popularity is #15
 
 
   ## Plex 
@@ -342,7 +342,7 @@ packet size range for reply is XXX bytes
 
 amplification factor is XXX
 
-popularity is 
+popularity is ??
 
 
 ## DHCPDiscover 
@@ -358,6 +358,6 @@ no fragments generated
 
 amplification factor is XXX
 
-popularity is 
+popularity is ??
 
 
