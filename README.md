@@ -3,13 +3,15 @@ Information about the packets involved in DDoS amplification attacks
 
 ## QOTD 
 https://www.shadowserver.org/what-we-do/network-reporting/open-qotd-report/
-UDP/17
+**UDP/17**
 packet size range for request is 36-153 bytes
+
 packet size range for reply is XXX
-   ## CharGen 
+## CharGen 
    https://www.shadowserver.org/what-we-do/network-reporting/open-chargen-report/
-UDP/19
+**UDP/19**
 packet size range for request is 29-76 bytes
+
 packet size range for reply is XXX
    ## DNS 
    https://www.shadowserver.org/what-we-do/network-reporting/dns-open-resolvers-report/
