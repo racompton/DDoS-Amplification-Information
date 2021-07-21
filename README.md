@@ -10,7 +10,7 @@ packet size range for request is 36-153 bytes
 
 packet size range for reply is XXX
 
-amplification factor is XXX
+amplification factor is up to 140x
 
 popularity is #18
 
@@ -23,7 +23,7 @@ packet size range for request is 29-76 bytes
 
 packet size range for reply is XXX
 
-amplification factor is XXX
+amplification factor is 358.8x
 
 popularity is #17
 
@@ -38,7 +38,7 @@ packet size range for reply is XXX
 
 fragments are usually generated
 
-amplification factor is XXX
+amplification factor is 28-54x
 
 popularity is #1
 
@@ -52,7 +52,7 @@ packet size range for request is 28-88 bytes
 
 packet size range for reply is XXX
 
-amplification factor is XXX
+amplification factor is 60x
 
 popularity is #7
 
@@ -67,7 +67,7 @@ packet size range for request is 68-160 bytes
 
 packet size range for reply is XXX
 
-amplification factor is XXX
+amplification factor is 7-28x
 
 popularity is #14
 
@@ -84,7 +84,7 @@ packet size range for reply is XXX
 
 no fragments generated
 
-amplification factor is XXX
+amplification factor is 100x
 
 popularity is #3
 
@@ -100,7 +100,7 @@ packet size range for reply is 468 bytes
 
 no fragments generated
 
-amplification factor is XXX
+amplification factor is 556.9x
 
 popularity is #3
 
@@ -114,7 +114,7 @@ packet size range for request is 78 bytes
 
 packet size range for reply is XXX bytes
 
-amplification factor is XXX
+amplification factor is 3.8x
 
 popularity is #9
 
@@ -128,7 +128,7 @@ packet size range for request is 62-168 bytes
 
 packet size range for reply is XXX bytes
 
-amplification factor is XXX
+amplification factor is 6.3
 
 popularity is #6
 
@@ -156,7 +156,7 @@ packet size range for request is 241-249 bytes
 
 packet size range for reply is XXX bytes
 
-amplification factor is XXX
+amplification factor is 46-55
 
 popularity is #12
 
@@ -170,7 +170,7 @@ packet size range for request is 52 bytes
 
 packet size range for reply is XXX bytes
 
-amplification factor is XXX
+amplification factor is 131.24
 
 popularity is #19
 
@@ -198,7 +198,7 @@ packet size range for request is 29-91 bytes
 
 packet size range for reply is XXX bytes
 
-amplification factor is XXX
+amplification factor is 25x
 
 popularity is #8
 
@@ -212,9 +212,9 @@ packet size range for request is XXX bytes
 
 packet size range for reply is XXX bytes
 
-amplification factor is XXX
+amplification factor is 30x
 
-popularity is 
+popularity is ??
 
 
    ## ARD 
@@ -226,7 +226,7 @@ packet size range for request is 28-99 bytes
 
 packet size range for reply is XXX bytes
 
-amplification factor is XXX
+amplification factor is 35.5x
 
 popularity is #2
 
@@ -240,7 +240,7 @@ packet size range for request is 38-80 bytes
 
 packet size range for reply is XXX bytes
 
-amplification factor is XXX
+amplification factor is 85.9x
 
 popularity is 
 
@@ -254,7 +254,7 @@ packet size range for request is 31-62 bytes
 
 packet size range for reply is XXX bytes
 
-amplification factor is XXX
+amplification factor is 15.3x
 
 popularity is #4
 
@@ -268,7 +268,7 @@ packet size range for request is 30-68 bytes
 
 packet size range for reply is XXX bytes
 
-amplification factor is XXX
+amplification factor is 42.94x
 
 popularity is #12
 
@@ -283,7 +283,7 @@ packet size range for request is 28-222 bytes
 
 packet size range for reply is XXX bytes
 
-amplification factor is XXX
+amplification factor is 4.35x
 
 popularity is #5
 
@@ -298,7 +298,7 @@ packet size range for request is 97-125 bytes
 
 packet size range for reply is XXX bytes
 
-amplification factor is XXX
+amplification factor is 34x
 
 popularity is 
 
@@ -312,7 +312,7 @@ packet size range for request is 32-96 bytes
 
 packet size range for reply is XXX bytes
 
-amplification factor is XXX
+amplification factor is 30-35x
 
 popularity is #10
 
@@ -326,7 +326,7 @@ packet size range for request is 43-123 bytes
 
 packet size range for reply is XXX bytes
 
-amplification factor is XXX
+amplification factor is 9000x
 
 popularity is #15
 
@@ -340,7 +340,7 @@ packet size range for request is 29-102 bytes
 
 packet size range for reply is XXX bytes
 
-amplification factor is XXX
+amplification factor is 4x
 
 popularity is ??
 
@@ -356,7 +356,7 @@ packet size range for reply is XXX
 
 no fragments generated
 
-amplification factor is XXX
+amplification factor is 23-25x
 
 popularity is ??
 
