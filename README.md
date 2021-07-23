@@ -47,10 +47,13 @@ popularity is #1
    https://www.shadowserver.org/what-we-do/network-reporting/open-accessible-tftp-report/
    
 **UDP/69**
+**Amplification traffic is UDP/>1024**
 
 packet size range for request is 28-88 bytes
 
 packet size range for reply is XXX
+
+no fragments generated
 
 amplification factor is 60x
 
@@ -58,7 +61,7 @@ popularity is #7
 
 
 
-## Portmapper 
+## Portmapper/RPCbind 
    https://www.shadowserver.org/what-we-do/network-reporting/open-portmapper-report/
    
 **UDP/111**
@@ -161,7 +164,7 @@ amplification factor is 46-55
 popularity is #12
 
 
-   ## RIP 
+   ## RIPv1 
    https://blogs.akamai.com/2015/07/ripv1-reflection-ddos-making-a-comeback.html
    
 **UDP/520**
@@ -217,7 +220,7 @@ amplification factor is 30x
 popularity is ??
 
 
-   ## ARD 
+   ## ARMS
    https://www.shadowserver.org/what-we-do/network-reporting/accessible-apple-remote-desktop-ard-report/
    
 **UDP/3283**
@@ -245,7 +248,7 @@ amplification factor is 85.9x
 popularity is 
 
 
-   ## WSD 
+   ## WS-DD
    https://github.com/Phenomite/AMP-Research/tree/master/Port%203702%20-%20WSD
    
 **UDP/3702**
