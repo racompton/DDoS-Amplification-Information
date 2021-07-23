@@ -211,11 +211,13 @@ popularity is #8
    
 **UDP/1900**
 
-packet size range for request is XXX bytes
+packet size range for request is 90-130 bytes
 
-packet size range for reply is XXX bytes
+packet size range for reply is 248-420 bytes
 
 amplification factor is 30x
+
+no fragments generated
 
 popularity is ??
 
