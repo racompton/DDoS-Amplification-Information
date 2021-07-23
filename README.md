@@ -1,5 +1,5 @@
-# DDoS-Amplification-Information
-Information about the packets involved in DDoS amplification attacks
+# UDP-DDoS-Amplification-Information
+Information about the packets involved in UDP DDoS amplification attacks
 
 ## QOTD 
 https://www.shadowserver.org/what-we-do/network-reporting/open-qotd-report/
