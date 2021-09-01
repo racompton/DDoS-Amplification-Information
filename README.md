@@ -48,7 +48,7 @@ popularity is #1
    
 **UDP/69**
 
-**Amplification traffic is UDP/>1024**
+**Amplification traffic is UDP/greater than 1024**
 
 packet size range for request is 28-88 bytes
 
