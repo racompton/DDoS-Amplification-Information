@@ -47,6 +47,7 @@ popularity is #1
    https://www.shadowserver.org/what-we-do/network-reporting/open-accessible-tftp-report/
    
 **UDP/69**
+
 **Amplification traffic is UDP/>1024**
 
 packet size range for request is 28-88 bytes
