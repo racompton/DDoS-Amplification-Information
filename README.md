@@ -69,7 +69,7 @@ popularity is #7
 
 packet size range for request is 68-160 bytes
 
-packet size range for reply is XXX
+packet size range for reply is ~400-1500
 
 amplification factor is 7-28x
 
@@ -84,7 +84,7 @@ popularity is #14
 
 packet size range for request is 36-216 bytes
 
-packet size range for reply is XXX
+packet size range for reply is 200-400
 
 no fragments generated
 
@@ -130,7 +130,7 @@ popularity is #9
 
 packet size range for request is 62-168 bytes
 
-packet size range for reply is XXX bytes
+   packet size range for reply is 1200-1500 bytes
 
 amplification factor is 6.3
 
@@ -158,7 +158,7 @@ popularity is #13
 
 packet size range for request is 241-249 bytes
 
-packet size range for reply is XXX bytes
+packet size range for reply is 1300-1500 bytes
 
 amplification factor is 46-55
 
@@ -258,7 +258,7 @@ popularity is
 
 packet size range for request is 31-62 bytes
 
-packet size range for reply is XXX bytes
+packet size range for reply is 500-1000 bytes
 
 amplification factor is 15.3x
 
@@ -287,7 +287,7 @@ popularity is #12
 
 packet size range for request is 28-222 bytes
 
-packet size range for reply is XXX bytes
+packet size range for reply is 74-537 bytes
 
 amplification factor is 4.35x
 
@@ -358,7 +358,7 @@ https://www.netscout.com/blog/asert/dhcpdiscover-reflectionamplification-ddos-at
 
 packet size range for request is 29-46 bytes
 
-packet size range for reply is XXX
+packet size range for reply is 700-850
 
 no fragments generated
 
