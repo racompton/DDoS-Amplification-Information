@@ -84,7 +84,7 @@ popularity is #14
 
 packet size range for request is 36-216 bytes
 
-packet size range for reply is 200-400
+packet size range for reply is 250-500
 
 no fragments generated
 
